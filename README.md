@@ -1,3 +1,3 @@
 # helloworld-java-program-AnthonyKy21
 
-Second commit.
+Playing around with Git and Github.
